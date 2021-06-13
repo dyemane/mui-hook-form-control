@@ -1,4 +1,4 @@
-import { TextFieldControl } from ".."
+import { TextFieldControl } from "../src"
 import { checkChecked, checkLabel, checkName, checkValue } from "./utils"
 
 describe("TextFieldControl", () => {

@@ -4,7 +4,7 @@ import {
   FileButtonControl,
   RadioGroupControl,
   SelectControl,
-} from ".."
+} from "../src"
 import { checkChecked, checkError, checkHelper, checkLabel } from "./utils"
 
 describe("CheckboxControl", () => {

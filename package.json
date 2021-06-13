@@ -2,7 +2,7 @@
   "name": "mui-hook-form-control",
   "version": "0.0.3",
   "description": "Maretial UI react-hook-form control",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "build": "tsc",
     "test": "jest --verbose"
