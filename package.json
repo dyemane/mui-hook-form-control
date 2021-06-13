@@ -1,6 +1,6 @@
 {
   "name": "mui-hook-form-control",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Maretial UI react-hook-form control",
   "main": "index.js",
   "scripts": {
@@ -12,9 +12,7 @@
     "url": "git+https://github.com/dyemane/mui-hook-form-control.git"
   },
   "keywords": [
-    "react",
-    "Maretial",
-    "UI",
+    "Maretial-UI",
     "react-hook-form"
   ],
   "author": "Dino Yemane",
@@ -25,8 +23,6 @@
   "homepage": "https://github.com/dyemane/mui-hook-form-control#readme",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
-    "react": "16.14.0",
-    "react-dom": "^17.0.2",
     "react-hook-form": "^6.9.2"
   },
   "devDependencies": {
