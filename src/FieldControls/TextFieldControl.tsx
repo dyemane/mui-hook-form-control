@@ -11,6 +11,7 @@ interface TextFieldControlProps {
   name: string
   defaultValue?: FIXME
   fullWidth?: boolean
+  [key: string]: FIXME
 }
 export const TextFieldControl = ({
   control,
