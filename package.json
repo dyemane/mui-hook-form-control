@@ -1,6 +1,6 @@
 {
   "name": "mui-hook-form-control",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Maretial UI react-hook-form control",
   "main": "./lib/index.js",
   "scripts": {
