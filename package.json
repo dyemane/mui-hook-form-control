@@ -1,11 +1,12 @@
 {
   "name": "mui-hook-form-control",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Maretial UI react-hook-form control",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/dyemane/mui-hook-form-control#readme",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
+    "husky": "^6.0.0",
     "react-hook-form": "^6.9.2"
   },
   "devDependencies": {
